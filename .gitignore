@@ -1,0 +1,21 @@
+# Arduino / build output
+build/
+*.bin
+*.elf
+*.map
+# KiCad local state + backups
+*.kicad_prl
+*-backups/
+_autosave-*
+*.lck
+fp-info-cache
+# misc
+__pycache__/
+.DS_Store
+Thumbs.db
+
+# host simulator output
+firmware/cyberskratch_3d/host_sim/out/
+firmware/cyberskratch_3d/host_sim/*.exe
+firmware/cyberskratch_3d/host_sim/game.inc
+firmware/cyberskratch_3d/host_sim/Vocab_*
