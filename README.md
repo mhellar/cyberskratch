@@ -68,6 +68,13 @@ settings. `top_plate_LASER.svg` is cut + engrave in one file (black fill = engra
 
 ![top plate](docs/top_plate.png)
 
+## Fun fact
+
+The TALK mode's robot voice runs the same LPC speech tech as Texas Instruments' Speak & Spell. Its FLIGHT, ALPHA
+and SKY word banks come from early-80s TI talking-chip ROMs (VM61002-5), whose vocabulary was built for cockpits
+and air traffic control: AUTOPILOT, RADAR, STALL, MAYDAY, LANDING GEAR, the NATO alphabet, weather calls, even
+MIG and INTRUDER. Talkie's own notes call it "a very military bias".
+
 ## Credits
 
 - **SAM**: Software Automatic Mouth (Don't Ask Software, 1982). C port by Sebastian Macke, ESP8266/ESP32
